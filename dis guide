@@ -1,0 +1,307 @@
+
+
+    NCBINCBI Logo
+    Skip to main content
+    Skip to navigation
+    Resources
+    How To
+    About NCBI Accesskeys
+
+Sign in to NCBI
+PMC
+US National Library of Medicine
+National Institutes of Health
+Search database
+Search term
+Clear input
+
+    Limits
+    Advanced
+    Journal list
+    Help 
+
+    Journal List
+    Acta Inform Med
+    v.20(1); 2012 Mar
+    PMC3545321
+
+Logo of aim
+Acta Inform Med. 2012 Mar; 20(1): 47–55.
+doi:  10.5455/aim.2012.20.47-55
+PMCID: PMC3545321
+Information Systems in Dentistry
+Fedja Masic
+Author information ► Article notes ► Copyright and License information ►
+Go to:
+Abstract
+Introduction:
+
+Almost the entire human creativity today, from the standpoint of its efficiency and expediency, is conditioned with the existence of information systems. Most information systems are oriented to the management and decision-making, including health information system. System of health and health insurance together form one of the most important segments of society and its functioning as a compact unit. Increasing requirements for reducing health care costs while preserving or improving the quality of services provided represent a difficult task for the health system.
+Material and methods:
+
+Using descriptive metods by retreiiving literature we analyzed the latest solutions in information and telecommunications technology is the basis for building an effective and efficient health system. Computerization does not have the primary objective of saving, but the rationalization of spending in health care. It is estimated that at least 20-30% of money spent in health care can be rationally utilized. Computerization should give the necessary data and indicators for this rationalization. Very important are the goals of this project and the achievement of other uses and benefits, improving overall care for patients and policyholders, increasing the speed and accuracy of diagnosis in determining treatment using electronic diagnostic and therapeutic guidelines.
+Results and discussion:
+
+Computerization in dentistry began similarly as in other human activities–recording large amounts of data on digital media, and by replacing manual data processing to machine one. But specifics of the dental profession have led to the specifics of the application of information technology (IT), and continue to require special development of dental oriented and applied IT. Harmonization of dental software with global standards will enable doctors and dentists to with a few mouse clicks via the internet reach the general medical information about their patients from the central national health database. Standardization will also allow access to general medical and dental history data on citizens of foreign countries who seek help of doctors or dentists during their vacation. Such a method of using IT will provide a higher level of health services and better health care. Also, the identification procedures in mass disasters availability of data can contribute to accelerate the identification of victims.Dental information systems lately are based on Web applications to facilitate data exchange. Electronic patient record contains basic information and entering of this data is automatically created the protocol of patients that can be printed.Besides these general data Electronic patient record also contains history data related to allergies and other diseases which existence can significantly affect the treatment, data on current diagnosis, location of a pathological process in the tooth refers to the following location (mesial, distal, vestibular, oral, occlusal), teething, therapy of the tooth , type of material used with location on the tooth. The system may defined also the surgical procedures that were performed on the teeth such as tooth extraction or tooth root resection with the ability to accurately indicate that the root is resected. Implants, upgrades, grinding teeth, and independent crown can be defined for each tooth and its rightful place if a tooth is missing. Specially designed graphical representation of teeth enables to enter data by first clicking on the tooth or place where it is and also on that occasion to open a menu with options. Control of data entry prevents entry of illogical data.
+Conclusion:
+
+The system according to the HL7 standard represents electronic documents which eliminate the need for paper documents and a variety of daily and monthly reports of doctors who are still in use today, and the doctor and nurse are almost completely freed of administrative tasks.
+Key words: Information systems, dentistry, HL7 standard.
+Go to:
+1. INTRODUCTION
+
+Dental Informatics is the branch of medical informatics oriented to dentistry (1, 2, 3, 4, 5). It deals with the management of information, communication and application of new technologies in clinical practice and research. Information management involves the storage and use of information generated in direct work with patients in a dental office, it includes the organization of work and arranging visits and operation of dental practice. It is therefore an information system in the dental office. Communication involves the use of electronic mail, Internet search, promotion practices with the help of web technologies, database searching for drugs, dosages and interactions, then learning, practicing and practicing procedures in virtual reality, etc. Clinical practice and research involve the use of new technologies such as devices producing digital images based on x-ray or intraoral cameras, as well as retrieval of medical literature or publishing content on electronic media.
+
+Almost the entire human creativity today, from the standpoint of its efficiency and expediency, is conditioned with the existence of information systems.
+
+World Health Organization (WHO) defines the health as a system: Complex of interrelated elements that contribute to health in the family, educational institutions and workplaces, public places and communities, as well as physical and psychological environment, health and other sectors.
+
+When it comes to the definition of health information systems (HIS), it should be noted that the World Health Organization (WHO), it is determined as part of the overall information system and includes a mechanism for collecting, processing, analysis and reception of information necessary for the organization and implementation of health care, but also research and organization of health care.
+
+Of course, this is not the only definition of HIS. Next tells that the HIS is organization of people, machines and methods which mutually act to security guards the necessary data and information about the health of the population for the purpose of planning and management in health care.
+
+Basic components of health information system are:
+
+    Personnel (the organizers, planners, designers, managers, developers, users)
+    Database
+    Technical basis and
+    Software support.
+
+Information that are generated and transmitted within the healthcare information systems has specific purposes:
+
+In the operational management of health and medical records.– When it comes to this subject should be noted that the amount of data collected in health facilities is very large. Provision of medical services is very specific and complex work whose basic feature is the number and variety of data and information. Modern processes of health care are built on the fact that information must be easily accessible in time and place where it is needed. On this set, can be answered only by using computers.
+
+In medical diagnostics–computers in medical diagnostics are used in the processing and analysis of biophysical signals (electrocardiography, electroencephalography, electromyography, measurement of blood pressure), then the processing and analysis of medical imaging procedures for computerized tomography–CT, then the image obtained with MRI, which will be discussed more later.
+
+In addition it should be noted that computers play a significant role in the diagnosis, or the processing and analysis of clinical laboratory tests. To set the diagnosis, using the so-called expert systems and, in essence, provide information requested by the user, but can explain how this information may occur. There are many examples of expert systems. Up to now, have been developed as follows: CASNET–consultative system for glaucoma, it is very important in the diagnostics in ophthalmology; INTERNIST–consultant in internal medicine, etc. However, it should be noted that more work is in progress on the development of such system or program.
+
+Use in therapy and rehabilitation– the beginning of computer applications in medicine is related with software for the planning of radiation of the tumor (calculated dose, field size). Today this method is very widely used and practically cannot be imagined without computers. When it comes to therapy, we mean follow up of patients and its medical condition in the intensive care unit.
+
+The organization of medical work – if we discuss this issue, we will say that the most important areas of information the following methods (6, 7, 8, 9, 10, 11):
+
+    Arranging visits of patients in ambulances
+    Admission to hospital
+    Prescription
+    Sick leave
+    Records of medical work, etc.
+
+5. In medical research–the application of computers in medical research is very broad and still is very difficult (impossible) to engage in research without a computer or the use of complex processing of information and computer work. In addition to data analysis, research is increasingly improved by computerized systems for documentation of the medical literature (MEDLARS and Expert Medica).
+
+In medical education–now largely used in educational materials that are distributed electronically. They are very suitable type of simulation programs (for the patient or general population), where the student learns, guided by a computer to solve a medical or health problem.
+
+Electronic dental record is an important part of medical information systems of health care institutions that include a dental office.
+
+Computerization in dentistry began similarly to other human activities by recording large amounts of data on digital media and replacing laborious manual data processing. Specifics of the dental profession have led to the specifics of the application of IT, and continue to require special dental development-oriented and applied IT.
+
+It is widely accepted and in practice proven that with moving from paper-based administration to computer processing of data is obtained at least a threefold increase in efficiency and huge material savings in any sphere of modern business.
+
+The development and purpose of information systems in health care implementation
+
+The establishment and development of an information system is set as a tool for earning money and is being implemented with the aim of completely controlling and rationalizing consumption, thereby saving money.
+
+In EU countries, at least 1-2% of health budgets is spent on information, while in the U.S. that share is 2-3%. The share of investment in information systems is directly proportional to the financial performance of the system (3).
+
+IT with big steps came in contemporary life and work of many people. Decline in prices of computers and software enabled that computers in the last ten years become accessible to most households, institutions and offices. Primary health care and dental clinics have also followed this pattern. Since the beginning of the nineties, first individually and later more massive, computers are introduced and become one of the basic tools in their work. After “computer shock”, that is, except for younger colleagues, the expected event of an encounter with computer-technology, for a short time, and even the most hardened opponents of the computers are becoming aware of the benefits and relief that are available to them.
+
+Hundreds of different data on insurers, patients, and work is needed to be written on daily basis in their practices. Some of them will be daily, weekly, monthly or yearly integrating and print the forms that will be regularly submitted to the Ministry of Health, or other institution insured or other claimant. The records shall be conducted through special book that was supposed to enter each event studied, and enrollment had to be recorded in the board to avoid multiple reporting and ensure data quality. However, although slowly and painstakingly, the data were standardized, clearly numbered, controlled and processed.
+
+Relief in work is only possible with the introduction of computer technology in collecting and processing data. Ideally, work with each insured, measures and procedures should only enter into a computer which will by the rules and needs generate data and reports. Or, ideally, computers should help to all transactions (processes and services) quickly implement a reporting data and information should be the result of a routine job and not a separate activity for the teams (5).
+
+The project of computerization of the health system involves the implementation of certain technology, communication, organizational and professional standards necessary for the functioning of an integrated health information system (6).
+
+Computerization does not have the primary objective of saving, but the rationalization of spending in health care. It is estimated that at least 20-30% of money spent in health care can be rationally utilized. Computerization should give the necessary data and indicators for this rationalization.
+
+Great help which is generously offered by IT refers to quickly finding of the documents and insured, replace the manual writing and typing on the typewriters, printing prescriptions, referral forms, accounts, individual forms and reports. The information system should provide insight into the data and information in real time and prompt intervention in the system.
+
+Very important are the goals of this project and the achievement of other uses and benefits, improving overall care for patients and policy-holders, increasing the speed and accuracy of diagnosis in determining treatment using electronic diagnostic and therapeutic guidelines. The system should allow better utilization of capacity, reduce waiting times, and reduce the time spent in health care facilities and clinics, ensuring equality in obtaining prompt and quality care for all patients.
+
+Creating reports and automatic delivery in the file format is one of the most important information system functionalities. In the future information system reports will not be created, it will be as a result of routine work and automatically generated, in real time be available to teams and doctors, as well as all the experts who work on the planning and evaluation of results in health care, from level of teams to level of cantons and the state.
+
+Computerization of health for the first time means the introduction of electronic smart cards for all doctors in the health care system. So the new information systems to every patient examination will at the same time check the status and rights of both the insured and the doctor. Only a “merge” access through the magnetic card and smart card of the insured and doctors will allow the transaction, as in banking or other credit card operations.
+
+The system should support international and EU data standards such as HL7 version 3, ICPC-2, CEN TC 251 and others. As a result of the project and trial operation of the system imposed are the following requirements:
+
+    A joint system with more licensed software solutions.
+    VPN (Virtual Private Network) infrastructure (providing “paperless” operations).
+    XML/HL-7 norm.
+    The standards of system safety (doctors smart cards, digital signatures, data encryption, firewalls, separation of the personal data from health data, data repositories, PKI–Public Key Infrastructure, systemic anti-virus protection, etc.).
+    Designation of clinical and other documents circulating in the health care system using barcode.
+    Electronic medical record.
+    Global registration and database of the insured.
+    A global database on Codes (ICD-10, ICPC-2, LOINC–Logical Observation Identifier Names and Codes, list of drugs, classification of medical procedures, classification of orthopedic devices, registration records, etc.).
+    Provided access to external databases.
+    E-prescriptions, e-referrals, ecommerce, etc.
+    A standardized and measurable use of diagnostic and therapeutic guidelines.
+
+Such a system should enable the cooperation of all public-health institutions, expert groups and individuals, linking and sharing the work, multiplication of the results (3).
+
+The introduction of integrated information systems in health care system will achieve particularly good results, because such comprehensive systems provide:
+
+More efficient way to create a medical and nonmedical information, i.e. more efficient conversion of data into information,
+
+Better, more effective and meaningful way to share information. More successful way to communicate with patients (7).
+Go to:
+2. MODEL OF HEALTH INFORMATION SYSTEM
+
+To explain the work of HIS we can use the same model that has been very extensive applied in practice, or to say that this model is used by many hospitals in our country and abroad. The aforementioned model is called MEDICAS and it is a medical information system for healthcare facilities that cover a very wide range of activities in conjunction with patients, providers and health care system. It contains a comprehensive electronic health record of the patient and is intended to be implemented in all health facilities. In addition, possible is a connection and exchange of data with regional and central structures for the collection and processing of information in health care.
+
+On Figure ​Figure2.2. is presented MEDICAS software package (Source: www.irvas.rs, accessed on Dec. 22, 2011). Depending on the specifics the health institutions consumers can use different subsystems (8, 9). The main subsystems that can be implemented are:
+Figure 2
+Figure 2
+DART. Source: http://www.inra.unu.edu (Dec. 22, 2011)
+
+    MEDICAS GP–Subsystem for basic health care facilities.
+    MEDICAS Hosp–Subsystem for hospitals and medical facilities of the stationary type.
+    MEDICAS Poly–Subsystem for specialist clinics or clinics,
+    MEDICAS Lab–Subsystem for medical laboratories
+    MEDICAS Dent–Subsystem for dental clinic
+
+Identification modules are integral parts of the system, a modular system allows any combination of these levels, depending on the specific structure of the health facilities.
+Go to:
+3. INFORMATION IN DENTISTRY
+
+Doctors and dentists have different information needs when making diagnoses and medical decisions. While medical knowledge continues to grow at a steady pace, clinicians spend less time on clinical trial issues and develop a plan to set up clinical questions.
+
+Numerous tests were conducted on the use of information in dentistry:
+
+Only a very small number of studies were based on the information needs of dental research. For example, Strother, Lancaster and Gardiner interviewed 500 dentists and found that the most needed information are on new techniques in dentistry, followed by information about the products and equipment, and the practice management and medical complications.
+
+Duxbury and Leach have identified drug interactions and side effects, precautions and dosage as well as top queries related to drug use. Research on the clinical use of information sources gave less variation than the research on their information needs during the years.
+
+In a study from 1991, the medical literature is listed as the number one source of information on medicinal products for dentists, followed by consultation with colleagues and dental literature. Factors affecting the consultations between clinicians are a specialty, type and location of practice, experience, age, and work roles and tasks
+
+In 1997, Haug analysis shows that physicians often find medical information in the references (journals and books) and through consultation with colleagues.
+
+In recent years, with large growth of electronic print, the use of online resources has become a topic of research. For example, the study in Australia found that GPs used online searches during consultations with patients. In dentistry, a professional course, dental journal and further education were declared as the top three sources of information in dentistry.
+
+While approximately 25% of all general dentists in the United States use computers since 2006, little is known whether these dentists are using on-line sources of clinical practice. In order to meet the information needs of clinicians, various strategies have been proposed, and implemented. One solution is to offer them clinically based guidelines in an easily accessible format, and the second is that their diagnosis and treatment support information systems such as clinical decisions support systems (CDSS) that are able to handle large amounts of information.
+
+Dentist’s information needs vary by the nature and number depending on the clinical condition of the patient. Dentists need quick access to information on various topics. Because of rapid schedule in a dental office, quick access to clinical and other information considered very important the patient’s diagnosis and treatment.
+
+In the standards of evidence based medicine, dentists have to combine information based on clinical evidence with their skills and expertise, as well as the patient’s needs (1, 3, 10, 11).
+Go to:
+4. THE INFORMATION SYSTEMS FOR DENTAL SERVICES
+
+The appearance of Internet and spread of computer use in the eighties and nineties of the last century has led to major changes in dentistry. Dentistry as a branch of medical science is always forefront in the use of sophisticated technologically advanced materials and techniques used because of the severity of the biological environment of the mouth. Specifically, physical and biological processes in the oral cavity are a complex system of mechanicalphysiological conditions by its complexity and variability are always looking for new achievements and technological advances. Computerization in dentistry began similarly as in other human activities–recording large amounts of data on digital media, and by replacing manual data processing to machine one. But specifics of the dental profession have led to the specifics of the application of information technology (IT), and continue to require special development of dental oriented and applied IT.
+
+During the recording and data entering the problems in adapting the system of marking teeth for mechanical processing occured. The method was developed precisely to facilitate the electronic processing of data–binomial method of marking–based on the principle of marking teeth by digit numbers, where the first number indicates the quadrant of primary and permanent dentition, and the second number of teeth in this quadrant, as seen from the central line connecting the squares. Although there are other methods of marking teeth, using the characters, and a number of graphic symbols, those in the new information age are slowly losing value and give way to technologically supported methods. In this simple example we can see how much and how development of different technologies, especially IT, affects all aspects of the dental profession.
+
+Today there are many companies that are engaged in creating software that serves to computer “management” in dental surgery (Figure ​(Figure1).1). From the abundance of such software is difficult to choose a software package that optimally meets the needs of dentists and dental practitioners and dental specialists of different disciplines. The future of such software solutions lies in its modularity. Modules for different specialist areas and various multimedia applications are an important part in selecting the right software for dentists and specialist practitioners. Interconnection of such modules within the software from different vendors and sharing of important diagnostic information with other software packages, even via the Internet, will in the near future be one of the most important advantages of software for managing dental offices (8).
+Figure 1
+Figure 1
+MEDICAS Source: www.irvas.rs 22, 2011)
+
+HL7 (Health Level Seven) standard was developed to exchange information about patients between different software applications. The United States and the developed countries are investing huge resources into the development and implementation of standards in the national health structures. Harmonization of dental software with global standards will enable doctors and dentists to with a few mouse clicks via the internet reach the general medical information about their patients from the central national health database. Standardization will also allow access to general medical and dental history data on citizens of foreign countries who seek help of doctors or dentists during their vacation. Such a method of using IT will provide a higher level of health services and better health care. Also, the identification procedures in mass disasters availability of data can contribute to accelerate the identification of victims.
+
+Forensic aspect is one aspect that is essential for information systems in dentistry. Based on the data can be obtained from dental information systems possible is the identification of patients who were unconscious or deceased.
+Go to:
+5. CONTENTS OF DENTAL SOFTWARE
+
+Dental software is user-friendly software, easy to operate and configure, which fully utilizes all the features of modern Windows operating systems (6, 7, 8, 9, 10). Fully meets the specific needs of modern dental practice. To the maximum extent possible, follow the natural flow of work practices and provides an opportunity to fully devote professional work, and so far, tedious administrative tasks carried out easily and efficiently.
+
+It contains a comprehensive graphical record of the patient that is essential for superior treatment in dentistry. All patient information is clearly shown (by tables and graphics) on one screen and all relevant information can be reached in one or two mouse clicks. Technically it is capable of storing and displaying multimedia content–X-ray images, digital photographs, video recordings made intraoral camera scanned documents as well as direct integration with other specialized programs.
+
+It has planners showing appointments in a time interval of interest and date which are set, regardless of the number of jobs and number of employees to allow the dynamism and flexibility in the work of doctors and assistants. The system communicates with patients in several ways: by e-mail messages, SMS messages or by sending written scanned notices.
+
+Covered are the whole financial operations of the one office:
+
+    Following the billing by services
+    Following the billing by patients
+    Invoicing
+    Records of income
+    Records of payments
+    Office bank account
+    Cashier
+    Finances by suppliers
+    Salaries of employees
+    Costs and expenses of the office
+    Debts
+
+Material management of the office provides functions for a complete record of transactions and the formation of dental materials stock lists. Also, each material has its own storage card which provides clear insight into the quantitative and financial condition of such material (input, output, and supplier). There is a possibility to track the exact consumption of materials provided during each service. It has especially designed security system, for security and data protection. Data can be absolute or only partially available to a user depending on the needs and wishes of the office owner.
+
+Most studies on dental information needs are focused on primary and ambulatory care. One approach is to determine the differences in information needs with regard to the characteristics of dentists and specialists. White has investigated more than 30 requests for assistance and classified them into seven fields of dentistry (dental emergencies, orofacial pain, oral medicine, oral radiology, and orthodontics, pulp diagnosis and prosthetics). Famous example of such programs is Diagnostic Aid Resource Tool (DART). What helps in the diagnosis and management of diseases of the head and neck, ORAD, which advises clinicians on the interpretation of radiographic lesions, and computerized access to which is used for the analysis of caries.
+
+Despite the many benefits and promises of these systems, however little they help to improve clinical practice and its impact on disease outcome. Therefore, their use in medicine, particularly in dentistry, is slow and limited with little impact on clinical practice. One of the reasons, such Berg says, is that designers of these systems often do not have an overview of clinical jobs as complex social and economic systems, and thus misinterpreted the nature of clinical work that often leads to fact that designed system is very difficult to use. Specifically, important factors that make these systems a little useful are: lack of integration of dental work, inability to provide an integrated view of patient data, the lack of good clinical evidence in the database, a limited understanding of dental information needs.
+5.1. Electronic medical record in dentistry
+
+Dental record, in paper or electronic format, integrates all data related to dental care for one patient. Among other dental record provides a graphic description of the condition of the patient’s mouth, including dental caries (or damage to the teeth), dental disturbances in tooth growth, disturbances in the root of the tooth, periodontal disease and other diseases and anomalies of the teeth. Conditions that can also be presented include the use of dentures, dental implants, bridges, crowns and other upgrade procedures for the restoration of teeth.
+
+Medis.Net.Dental is a complete software solution for both dental clinics and private dental practice (8, 9, 10, 11). Medis. Net.Dental allows its users to work with data about the current state of the teeth of their patients, a historical overview of the patient’s teeth, keeping records of treatments administered, the materials used, invoicing for delivered services, distribute work hours of medical staff, patient scheduling checkups, etc. However, the central part of this software module occupies a dental record with graphical status of the teeth.
+
+Electronic dental record within Medis.Net. Dental module is implemented so it can functionally and visually to have small deviations from the traditional, printed dental records. This aims to enable medical personnel the simpler transition from current mode to the use of electronic dental records, with minimal changes to existing work processes. Thus, the graphical user interface implemented on the pattern of printed dental board. It consists of two tabs (tab control).
+
+The first tab, visible immediately upon opening the record, contains personal data of the patient, warning signs, the number of health card, personal number of the insured person, information about health insurance and employment details. This tab corresponds to the first page of printed record.
+
+The second tab contains the patient’s medical record, and it corresponds to the inside pages of printed record. The largest part of this tab cover two controls for graphical representation of the state of teeth and surrounding tissues. Two controls allow the display of the primary and secondary (permanent dentition) at the same time. Depending on the age of the patient can be present only the primary dentition, both dentitions or permanent dentition only. Each tooth in the view is represented by 5 area of the crown that exists in the printed record and using a suitable number of roots (1-3). The teeth were grouped into 4 quadrants (upper right, upper left, bottom left, and bottom right) with the 8 teeth each. Each tooth is numbered in a standard double-digit format where the first digit represents the number of the quadrant, and the second represents the number of the tooth within the quadrant.
+
+Moving the mouse cursor over the teeth leads to a magnified view of the teeth in order to facilitate staff to work with him, and the situation (diagnosis or therapy) of the teeth or any part thereof to be printed as text next to the tooth (tooltip). In the era of paper (which is still present), patient information is stored in its medical record. Results of laboratory analysis, radiological images, findings and opinions of dentists, anamnestic data, are recorded in the material (hard copy) and inserted into folders.
+
+In the lower right part of the tab with health data is the control for the selection state of the teeth (outlook bar) that contains the most commonly used diagnosis, therapy, prosthetic compensation, a state of health of teeth and the possibility of placing the number of roots of a tooth that deviates from the standard. Selected state is applied to the tooth or the tooth by left mouse click on the selected area. Any errors are easily corrected by re-clicking on the same surface. The choice of diagnosis and treatment that exist in the database facilities by list view control in the lower right part of the form. It is important to note that the database contains a catalog of diagnosis, which is in line with the international standard ICD-10 (International Classification of illnesses–ICD-10). The same control is used for placing and invoicing of services provided. In the lower left corner of the form are two buttons to open a historical review of the situation of the teeth. One button opens an overview of all the teeth on the selected date. The second button opens an overview of all states of selected teeth from the time when teeth starts to grow to the current situation.
+
+This review was not readily available by using printed dental records, and it can significantly assist the dentist in making decisions so that it currently provides an insight into the development, disease and therapy applied to the tooth to the dentist then analyzed.
+5.2. Display of patients processing with the information system in dentistry – Medicas Dent
+
+Function of Medicas Dent modules are adapted to work in dental offices using specific graphical tools for diagnosis and labeling of the dental status of patients. Also used are all the other standard modules for the administration and work with the patients in their offices. Each dental office is assigned a set of dental services which they can provide. Dental practice is treated as a reference drug store with appropriate drugs, dental materials and preparations, whose use is automatically recorded.
+
+The advantage of using electronic dental records
+
+The advantages of using electronic dental records in relation to work with the printed one, especially for larger dental clinics, are multiple. Here are just some of them:
+
+    Improved control over the record,
+    Easier storage and data access,
+    The possibility of processing large amounts of data in order to conduct scientific research and improve care for patients,
+    Better access to information relevant to the management of the clinic/dentist office, etc.
+
+In addition to the options that dentists already have with the use of printed dental records, electronic dental record offers some brand new features:
+
+Historical overview of all the teeth or the individual teeth by using electronic dental records is readily available from the moment you open the record or the moment of eruption of teeth to the current moment. This functionality can to some extent facilitate dental decision-making regarding further treatment.
+
+Through an electronic dental record is possible to configure the appropriate access rights to the dentist to provide insight into some important medical information of their patients, such as allergies, sensitivity to medications, chronic diseases. Indicators of the quality of dental services can be obtained from a comparative analysis of different services that different doctors provided to patients. Statistical data on the incidence of certain diseases and the applied therapy are unavoidable in scientific research, and can help dentists to make decisions in everyday activities in clinical practice. Also, properly inputted data base for dental patients who are treated in a medical institution are significant source of data for assessment of the teeth of inhabitants of some areas.
+
+Information relevant to decision making in the administration of the clinic/dentist office, can be easily obtained from a database which employees regularly input using electronic dental records during their daily work.
+
+Electronic exchange of data between remote dental clinics/offices, which are allowed to use electronic dental records, can significantly contribute to the overall increase in knowledge in this field. Electronic data exchange between the distant offices which by organization belonging to the same health institution should make easier and speeds up the daily work of these clinics.
+
+Dental record also has a status of official court documents and it can be used in identifying persons. And for this purpose an electronic format has the advantage over paper because it provides a higher level of data protection from unauthorized reading or registration.
+
+Protection of electronic dental records will be achieved through user accounts which are unique to each employee. The rights of access to dental data of the patients can be set for individual users or user groups, each with a change in the database is memorized and who is here modified so that the possibility of abuse is minimized.
+
+We should indicate some objective difficulties in the introduction of electronic records in everyday dental practice in an institution. The biggest problem is the cost of this process, which initially involves the cost of computer equipment, software cost, training of staff and any changes in work processes. However, in institutions where such information systems are introduced into use has been shown that this initial investment pays off by reducing other costs and increase service quality through the use of information systems.
+
+What in everyday work to dentists may be a problem are some record fields that were free-filled in the traditional record, and now are filled with a value from a pre-defined set (e.g. diagnosis). There are restrictions and conditions for placing the tooth in the graph because in classical record it was drawn by hand, and in the case of electronic record is selected from a pre-defined set.
+
+However, research shows that precisely these restrictions improve the quality of dentists who use an electronic patient record in respect of those who use the dental record in paper form. Specifically, they fully document the status of their patients and appropriately document the decisions they make because they were given the opportunity and obligation to follow the history of the disease the patient.
+Go to:
+6. THE CONCEPT OF THE VIRTUAL WAITING ROOM
+
+The concept of the virtual waiting room provides the dynamism and flexibility in the work of dentists and assistants. Planners offer a high degree of setup options, it displays appointments in the date and time range for which the planners adjust for dentists in which planner is the patient. This mode allows you to schedule surgery for their patients schedule follow-up examinations at three or six months.
+
+The software offers the possibility of direct communication with patients in several ways: a) by e-mail messages; b) by SMS messages and c) by sending written notice to patients in envelopes.
+
+Dentists and teams from different practice can achieve outstanding communication in the interest of improved treatment of the patient and easier to exchange experiences and opinions. All forms of electronic communication (SMS, email) are supported in automatic form (reminders), mass sending (circular) and a single sending form.
+
+Software provides complete support for financial management of offices through a number of standard schemes (modes) financial management (tracking and billing for services provided to patients, debtors, invoices, payments, payments, current account office, treasury, finance, suppliers, employees wages, office costs and expenses).
+
+Material management practices provide a complete record turnover of dental materials as well as the formation of lager with individual cards for each material. The card provides complete information on the status and origin of material (inputs and outputs, the supplier). Each intervention has a defined norm (the amount of material used) that each intervention is recorded as an input the output from the clinic, which gives the possibility of exact cross-section consumption of substances in analytical form for any services performed.
+Go to:
+7. THE IMPORTANCE OF IMPLEMENTATION OF ELECTRONIC HEALTH RECORDS IN DENTISTRY
+
+Dental electronic record is a record of the patient, which includes all medical and dental data, presented in the form of a computer. One can say that this is the foundation for building health information systems. The importance and use of electronic records and information system in the field of dental practice are multiple.
+
+During the treatment the doctor has access to all relevant patient records, personal information (general data), medical history, documentation and a complete graphical and tabular presentation of the status of the teeth and carried out interventions to date. Thus, all patient data can be found in one place and clearly presented, with the possibility of coping. Also, doctors and teams from different practice can achieve superior communications in order to exchange experiences and opinions with respect to rights of privacy of the patient. This significantly reduces the possibility of setting incorrect diagnosis, it is possible to operate more efficiently and improve the quality of healthcare services. Dental nurses are largely responsible for administrative tasks. With application of electronic dental records administrative tasks are performed in more convenient and easier manner. Patient information is inputted in one or more mouse clicks, which is much faster than using paper folders.
+
+Use of electronic dental records enables patients that all its documents and data are stored in one place, which prevents the occurrence of errors. The software is technologically capable of storing and direct display of multimedia content such as X-ray images, digital photographs, intraoral pictures, videos, and the patient can relax whether dentist has taken all the necessary documentation. It also prevents the possibility of them losing patients due to negligence. There are frequent cases where the patient happens to toothache in another city or country, then there is also the possibility of sending a pre-consultation or documentation from the original doctor’s order to the patient showed adequate help. In addition to communication between dentists the system itself communicates with patients in several ways: by e-mail messages, SMS messages or by sending written notices which are considered to be one of the benefits. Using new technology in dentistry, including the electronic medical records in practice, therefore, increase patient comfort and allows safe and effective treatment.
+Go to:
+8. CONCLUSION
+
+In the era of paper (which is still present), patient information is stored in their medical records. Results of laboratory analysis, recording with radiological devices, findings and opinions of dentists, anamnestic data, recorded in the material (hard copy) and inserted into folders.
+
+Distribution of these data is very poor and problematic. They must be manually transferred to any place where needed, they often lose, their value is little, if any, and many of them simply–because of the nature of such a system–must re-enter or obtain again.
+
+Therefore, the electronic dental record is an important part of medical information system in health facilities that include a dental office.
+
+Presented solution for the electronic dental record is part of a medical information system intended for use in primary care and as such meets the needs of both dental clinics and smaller dental offices. When making this module, particular attention was paid to the appearance of the user interface so that it now accurately reflects the look of standard, printed dental records with the aim that the clinic staff as much as possible facilitates the process of transition from the use of classical records to the use of electronic ones.
+
+Electronic record introduces new functionality to the document on paper were it was not possible (detailed historical overview of the teeth, simplified invoicing of services, data protection from unauthorized access, etc.). The quality of solution is provided using the latest technologies such as ADO.NET Entity Framework to access the database and the Windows Presentation Foundation to implement certain parts of the user interface. An additional advantage provides already tested database server Microsoft SQL Server 2005.
+
+Comparison of the process of dentists work with printed records and work processes with electronic dental record shows a number of advantages of electronic solutions. This fully justifies the initial cost of introducing an information system that consists of the cost of computer equipment, software and training of medical personnel for the new process of work.
